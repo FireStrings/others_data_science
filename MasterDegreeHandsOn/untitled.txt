@@ -1,0 +1,1 @@
+O CNN LSTM parece estar diferente. Vou criar um arquivo searado, testando os dois codigos puros, sem abstrações.

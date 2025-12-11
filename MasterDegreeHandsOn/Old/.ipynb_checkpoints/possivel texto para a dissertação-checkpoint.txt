@@ -1,0 +1,31 @@
+Sobre os dados
+
+Para termos uma divesidade nos dados, foram selecionados os dados de 2 regiões distintas, e dentro de cada região, adotamos a seguinte metodologia, para evidenciarmos as possiveis difereças climáticas: selecionar uma estação perto do litoral, outra em direção a área central do estado e uma terceira já mais no centro. As cidades/estações foram as seguintes
+- da Bahia, no Nordeste: Salvador(litoral), Feria de Santana(entre o litoral e o centro) e Jacobina (centro)
+- do Rio Grande do Sul, no Sul: Porto Alegre(litoral), Bento Gonçalves(entre o litoral e o centro) e Encruzilhada do Sul (centro).
+
+Uma análise inicial
+
+Como primeira coisa a se fazer, podemos considerar somente os horários das 6 as 21, porque, de acordo com esse grafico, os niveis de radiação relevantes estão dentro dessa janela. 
+
+Falar sobre as diferenças nas estações (precipitação, vento, etc)
+
+*Na Parte das series temporais
+
+As series temorais de radiacao solar sao, a priori, sazonias. Ou seja, terão um padrão de repetição diário.
+Como mostrar que são estacionarias?
+
+- Coloquei um plot de 1 semana com os valores e a media
+- Plotei a correlação das series com elas mesmas (tentar fazer um metodo pra isso)
+
+Estacionariedade
+Criar um teste de hipostese perguntando: a serie é estacionaria.
+
+Valor P
+É um valor utilizado para sabermos se iremos rejeitar a hipotese nula ou não.
+
+
+AdFuler Test / raiz unitaria
+
+
+
